@@ -1,5 +1,4 @@
 logging
-webbrowser
 asyncio
 subprocess
 pathlib
